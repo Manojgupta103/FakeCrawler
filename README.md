@@ -44,7 +44,7 @@ Clone the Repository
 ```
 ## Demo Usage
 
-https://github.com/user-attachments/assets/6dcd1a7a-fba9-46d6-8cb4-e732a859498e
+[Demo Video](https://github.com/user-attachments/assets/6dcd1a7a-fba9-46d6-8cb4-e732a859498e)
 
 ## License
 
