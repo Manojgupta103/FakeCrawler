@@ -46,15 +46,12 @@ Clone the Repository
 
 # Install the Requirements
    pip install -r requirements.txt
-
-# Executing
-  python3 FakeCrawler.py -h
 ```
 
 ## Commands
 
 ```bash
-python fake_crawler.py --url <target-url> [options]
+python3 FakeCrawler.py --url <target-url> [options]
 ```
 
 ## Options
