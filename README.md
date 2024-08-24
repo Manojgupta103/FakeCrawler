@@ -1,4 +1,7 @@
 # Fake Crawler
+A website crawler.
+
+![image](https://github.com/user-attachments/assets/0acb465c-58ba-46c4-ada1-04e618a47ec3)
 
 **Fake Crawler** is a web crawling and reconnaissance tool designed to extract useful information from websites. It performs a comprehensive crawl of a given URL and collects data on various elements including subdomains, social links, emails, files, IP addresses, and more.
 
@@ -29,9 +32,7 @@
 - **Alerts and Error Handling:**
   - Provides alerts for challenges such as rate limiting, Cloudflare protection, and other potential issues encountered during crawling.
 
-A website crawler.
 
-![image](https://github.com/user-attachments/assets/0acb465c-58ba-46c4-ada1-04e618a47ec3)
 
 ## Installation
 
