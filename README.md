@@ -23,7 +23,7 @@ Clone the Repository
   python3 FakeCrawler.py -h
 
 # Options
-  -h, --help            show this help message and exit
+  --help, -h            show this help message and exit
   --url URL             An initial URL to target.
   --email EMAIL         A comma-separated list of email domains to look for in page content. Defaults to the root
                         domain of the passed-in URL.
