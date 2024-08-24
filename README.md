@@ -132,7 +132,7 @@ python3 FakeCrawler.py --url <target-url> [options]
 
 ## Demo Usage
 
-https://github.com/user-attachments/assets/86203aa9-5ea5-4aca-8e09-37884d766455
+https://github.com/user-attachments/assets/eebdb5c2-caf8-4980-8f53-bea12f714624
 
 ## Contributers
 
