@@ -1,6 +1,6 @@
 # Fake Crawler
 
-Fake Crawler is  a url crawler.
+A url crawler.
 
 ## Installation
 
