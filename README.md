@@ -46,9 +46,11 @@ Clone the Repository
 https://github.com/user-attachments/assets/86203aa9-5ea5-4aca-8e09-37884d766455
 
 ## Contributers
+
 <a href="https://github.com/anubhavv106/FakeCrawler/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=anubhavv106/FakeCrawler" />
 </a>
+
 ## License
 
 [MIT](https://github.com/anubhavv106/Osint-Project/blob/master/LICENSE)
