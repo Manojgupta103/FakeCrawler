@@ -41,6 +41,7 @@ Clone the Repository
   --tags                Return tags (UA,GTM,etc.) extracted from crawled pages
   --ips                 Return IP addresses extracted from crawled page content
 ```
+
 ## Demo Usage
 
 https://github.com/user-attachments/assets/86203aa9-5ea5-4aca-8e09-37884d766455
