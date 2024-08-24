@@ -44,4 +44,4 @@ Clone the Repository
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/anubhavv106/Osint-Project/blob/master/LICENSE)
