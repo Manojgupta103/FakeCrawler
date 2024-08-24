@@ -1,6 +1,6 @@
 # Fake Crawler
 
-A url crawler.
+A website crawler.
 
 ![image](https://github.com/user-attachments/assets/0acb465c-58ba-46c4-ada1-04e618a47ec3)
 
