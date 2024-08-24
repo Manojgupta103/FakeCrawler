@@ -31,8 +31,6 @@
 - **Alerts and Error Handling:**
   - Provides alerts for challenges such as rate limiting, Cloudflare protection, and other potential issues encountered during crawling.
 
-
-
 ## Installation
 
 ```bash
@@ -57,66 +55,80 @@ python3 FakeCrawler.py --url <target-url> [options]
 ## Options
 
 - `--help`, `-h`
+
   - **Description:** Show this help message and exit.
-  - **Example:** `python Fake_crawler.py --help`
+  - **Example:** `python FakeCrawler.py --help`
 
 - `--url` URL
+
   - **Description:** An initial URL to target.
-  - **Example:** `python Fake_crawler.py --url http://example.com`
+  - **Example:** `python FakeCrawler.py --url http://example.com`
 
 - `--email` EMAIL
+
   - **Description:** A comma-separated list of email domains to look for in page content. Defaults to the root domain of the passed-in URL.
-  - **Example:** `python Fake_crawler.py --email example.com,anotherdomain.com`
+  - **Example:** `python FakeCrawler.py --email example.com,anotherdomain.com`
 
 - `--threads` THREADS
+
   - **Description:** The maximum number of threads to use. Defaults to 10.
   - **Default:** 10
-  - **Example:** `python Fake_crawler.py --threads 5`
+  - **Example:** `python FakeCrawler.py --threads 5`
 
 - `--limit` LIMIT
+
   - **Description:** The number of URLs to process before exiting. Defaults to 500. Set to 0 for no limit (careful).
   - **Default:** 500
-  - **Example:** `python Fake_crawler.py --limit 1000`
+  - **Example:** `python FakeCrawler.py --limit 1000`
 
 - `--proxy` PROXY
+
   - **Description:** Specify a proxy to use.
-  - **Example:** `python Fake_crawler.py --proxy http://localhost:8080`
+  - **Example:** `python FakeCrawler.py --proxy http://localhost:8080`
 
 - `--headers` HEADERS
+
   - **Description:** Override defaults with the indicated headers. Must be in JSON format (e.g., `{'user-agent':'value','accept':'value'}`).
-  - **Example:** `python Fake_crawler.py --headers "{'user-agent':'custom-agent','accept':'application/json'}"`
+  - **Example:** `python FakeCrawler.py --headers "{'user-agent':'custom-agent','accept':'application/json'}"`
 
 - `--region` REGION
+
   - **Description:** The AWS region to create FireProx resources in.
-  - **Example:** `python Fake_crawler.py --region us-east-1`
+  - **Example:** `python FakeCrawler.py --region us-east-1`
 
 - `--json`
+
   - **Description:** Output in JSON format.
-  - **Example:** `python Fake_crawler.py --json`
+  - **Example:** `python FakeCrawler.py --json`
 
 - `--robots`
+
   - **Description:** Search pages found in the `robots.txt` file.
-  - **Example:** `python Fake_crawler.py --robots`
+  - **Example:** `python FakeCrawler.py --robots`
 
 - `--sitemap`
+
   - **Description:** Search pages found in the site's sitemap.
-  - **Example:** `python Fake_crawler.py --sitemap`
+  - **Example:** `python FakeCrawler.py --sitemap`
 
 - `--suppress_progress`
+
   - **Description:** Only show final output.
-  - **Example:** `python Fake_crawler.py --suppress_progress`
+  - **Example:** `python FakeCrawler.py --suppress_progress`
 
 - `--comments`
+
   - **Description:** Return HTML comments extracted from crawled pages.
-  - **Example:** `python Fake_crawler.py --comments`
+  - **Example:** `python FakeCrawler.py --comments`
 
 - `--tags`
+
   - **Description:** Return tags (UA, GTM, etc.) extracted from crawled pages.
-  - **Example:** `python Fake_crawler.py --tags`
+  - **Example:** `python FakeCrawler.py --tags`
 
 - `--ips`
   - **Description:** Return IP addresses extracted from crawled page content.
-  - **Example:** `python Fake_crawler.py --ips`
+  - **Example:** `python FakeCrawler.py --ips`
 
 ## Demo Usage
 
