@@ -44,6 +44,8 @@ Clone the Repository
 ```
 ## Demo Usage
 
+https://github.com/user-attachments/assets/6dcd1a7a-fba9-46d6-8cb4-e732a859498e
+
 ## License
 
 [MIT](https://github.com/anubhavv106/Osint-Project/blob/master/LICENSE)
