@@ -6,7 +6,7 @@ A url crawler.
 
 
 ```bash
-git clone https://github.com/anubhavv106/Osint-Project.git
+git clone https://github.com/anubhavv106/FakeCrawler.git
 ```
 
 ## Usage
