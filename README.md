@@ -5,6 +5,7 @@
 **Fake Crawler** is a web crawling and reconnaissance tool designed to extract useful information from websites. It performs a comprehensive crawl of a given URL and collects data on various elements including subdomains, social links, emails, files, IP addresses, and more.
 
 ## Features
+
 - **Multithreaded Crawling:**
   - Utilizes multiple threads to speed up the crawling process and handle concurrent requests efficiently.
 - **URL Handling:**
