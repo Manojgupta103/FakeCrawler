@@ -136,9 +136,7 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 
 ## Contributers
 
-<a href="https://github.com/anubhavv106/FakeCrawler/graphs/contributors">
-  <img src="https://contributors-img.firebaseapp.com/image?repo=anubhavv106/FakeCrawler" />
-</a>
+
 
 ## License
 
