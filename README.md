@@ -135,7 +135,8 @@ python3 FakeCrawler.py --url <target-url> [options]
 https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 
 ## Contributers
-
+<html>
+  
 <style>
 .photos {
   display: inline-block;
@@ -165,6 +166,7 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 </a> 
 </div>
 
+</html>
 
 ## License
 
