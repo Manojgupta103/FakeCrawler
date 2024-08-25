@@ -136,6 +136,7 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 
 ## Contributers
 
+<style>
 .photos {
   display: inline-block;
   position: relative;
@@ -144,10 +145,11 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
   overflow: hidden;
   border-radius: 50%;
 }
+</style>
 
 <div class="photos">
-<a href="Github Profile url"> 
-  <img href="Github profile image source"> 
+<a href="https://github.com/anubhavv106"> 
+  <img href="https://avatars.githubusercontent.com/u/112748712?v=4"> 
 </a> 
 <div class="photos">
 <a href="Github Profile url"> 
