@@ -136,9 +136,32 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 
 ## Contributers
 
-<a href="https://github.com/anubhavv106/FakeCrawler/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=anubhavv106/FakeCrawler"  width="-10%" />
-</a>
+.photos {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+<div class="photos">
+<a href="Github Profile url"> 
+  <img href="Github profile image source"> 
+</a> 
+<div class="photos">
+<a href="Github Profile url"> 
+  <img href="Github profile image soure"> 
+</a> 
+<div class="photos">
+<a href="Github Profile url"> 
+  <img href="Github profile image source"> 
+</a> 
+<div class="photos">
+<a href="Github Profile url"> 
+  <img href="Github profile image source"> 
+</a> 
+</div>
 
 
 ## License
