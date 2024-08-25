@@ -137,7 +137,7 @@ https://github.com/user-attachments/assets/eb96b11e-4326-4822-af40-951be7e077e0
 ## Contributers
 
 <a href="https://github.com/remarkablemark">
-  <img src="https://github.com/remarkablemark.png?size=50">
+  <img src="https://github.com/remarkablemark.png">
 </a>
 
 ## License
